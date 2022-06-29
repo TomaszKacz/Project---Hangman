@@ -1,0 +1,7 @@
+C:\Users\Tomek\source\repos\Project1\Release\Project1.Wisielec.resources
+C:\Users\Tomek\source\repos\Project1\Release\Project1.vcxproj.GenerateResource.cache
+C:\Users\Tomek\source\repos\Project1\Release\Project1.exe
+C:\Users\Tomek\Desktop\Project1\Release\Project1.vcxprojAssemblyReference.cache
+C:\Users\Tomek\Desktop\Project1\Release\Project1.Wisielec.resources
+C:\Users\Tomek\Desktop\Project1\Release\Project1.vcxproj.GenerateResource.cache
+C:\Users\Tomek\Desktop\Project1\Release\Project1.exe

@@ -1,0 +1,8 @@
+﻿  Wisielec.cpp
+D:\poe\Project1\Wisielec.h(520,21): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\poe\Project1\Wisielec.cpp(9,18): warning C4551: function call missing argument list
+  Slowa.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  Wisielec.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project1.vcxproj -> D:\poe\Project1\x64\Debug\Project1.exe
