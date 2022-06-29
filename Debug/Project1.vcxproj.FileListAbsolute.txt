@@ -1,0 +1,10 @@
+C:\Users\Tomek\source\repos\Project1\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\Tomek\source\repos\Project1\Debug\Project1.exe
+C:\Users\Tomek\source\repos\Project1\Debug\Project1.pdb
+C:\Users\Tomek\source\repos\Project1\Debug\Project1.vcxprojAssemblyReference.cache
+C:\Users\Tomek\source\repos\Project1\Debug\Project1.Wisielec.resources
+C:\Users\Tomek\Desktop\Project1\Debug\Project1.vcxprojAssemblyReference.cache
+C:\Users\Tomek\Desktop\Project1\Debug\Project1.Wisielec.resources
+C:\Users\Tomek\Desktop\Project1\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\Tomek\Desktop\Project1\Debug\Project1.exe
+C:\Users\Tomek\Desktop\Project1\Debug\Project1.pdb
