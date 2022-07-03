@@ -1,3 +1,6 @@
+POLISH VERSION
+////////////////////////
+////////////////////////
 # Projekty-C-
 Tomasz Kaczmarek
 Dokumentacja “Wisielec”
@@ -33,3 +36,8 @@ W pliku Wisielec.h występuje klasa która odpowiada za interfejs graficzny i dz
 	Metoda button2_Click wywoływana jest po kliknięciu przycisku “Wyjscie“ i zamyka ona program.
 W pliku Wisielec.cpp wywoływany jest konstruktor klasy Wisielec oraz wyświetlany jest interfejs graficzny programu.
 Pliki Png używane są do wyświetlania kolejnych etapów szubienicy.
+
+ENGLISH VERSION
+////////////////////////
+////////////////////////
+Soon
