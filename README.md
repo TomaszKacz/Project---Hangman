@@ -1,6 +1,6 @@
 POLISH VERSION
-////////////////////////
-////////////////////////
+
+
 # Projekty-C-
 Tomasz Kaczmarek
 Dokumentacja “Wisielec”
@@ -38,6 +38,6 @@ W pliku Wisielec.cpp wywoływany jest konstruktor klasy Wisielec oraz wyświetla
 Pliki Png używane są do wyświetlania kolejnych etapów szubienicy.
 
 ENGLISH VERSION
-////////////////////////
-////////////////////////
+
+
 Soon
