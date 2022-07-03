@@ -5,6 +5,8 @@ POLISH VERSION
 Tomasz Kaczmarek
 Dokumentacja “Wisielec”
 
+AKTUALNIE GRA W TRAKCIE AKTUALIZACJI (strona internetowa z której gra pobierała słowa przestała istnieć)
+
 Opis programu:
 Gra wisielec. Zadaniem gracza jest odgadnąć ukryte słowo. Hasło jest rzeczownikiem składającym się z wyrazów nie posiadających polskich liter. Po włączeniu gry widoczne jest zagwiazdkowane pole prezentujące hasło, które trzeba odgadnąć. Pod hasłem widoczna jest szubienica. Niżej widoczne są pola z przyciskami, które odpowiadają kolejnym literom alfabetu angielskiego. Po wybraniu litery przez użytkownika (poprzez kliknięcie przycisku), jeżeli litera zawiera się w haśle kolor przycisku zamieni się na kolor zielony a przycisk przestanie być klikalny. Przy popełnieniu błędu przycisk zmieni kolor na czerwony i także przestanie być klikalny. Na samym dole znajduje się przycisk do opuszczenia gry. Gracz może popełnić 5 błędów, z kolei 6 błąd zakończy grę niepowodzeniem. Wraz z popełnianiem kolejnych błędów, widoczna w grze szubienica będzie powiększała się aż do momentu gdy zawiśnie na niej wisielec. Po zakończeniu gry wyświetla się okno z możliwością podjęcia wyboru czy gracz kontynuuje rozgrywkę, czy woli opuścić grę. 
 
@@ -40,4 +42,5 @@ Pliki Png używane są do wyświetlania kolejnych etapów szubienicy.
 ENGLISH VERSION
 
 
-Soon
+Currently, the game cannot be played because the page from which the words were downloaded no longer exists.
+More soon
