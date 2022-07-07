@@ -5,7 +5,7 @@ POLISH VERSION
 Tomasz Kaczmarek <br/>
 Dokumentacja “Wisielec”<br/>
 
-AKTUALNIE GRA W TRAKCIE AKTUALIZACJI (strona internetowa z której gra pobierała słowa przestała istnieć)<br/>
+AKTUALNIE GRA W TRAKCIE AKTUALIZACJI (strona internetowa z której gra pobierała słowa przestała istnieć)<br/><br/>
 
 Opis programu:<br/>
 Gra wisielec. Zadaniem gracza jest odgadnąć ukryte słowo. Hasło jest rzeczownikiem składającym się z wyrazów nie posiadających polskich liter. Po włączeniu gry widoczne jest zagwiazdkowane pole prezentujące hasło, które trzeba odgadnąć. Pod hasłem widoczna jest szubienica. Niżej widoczne są pola z przyciskami, które odpowiadają kolejnym literom alfabetu angielskiego. Po wybraniu litery przez użytkownika (poprzez kliknięcie przycisku), jeżeli litera zawiera się w haśle kolor przycisku zamieni się na kolor zielony a przycisk przestanie być klikalny. Przy popełnieniu błędu przycisk zmieni kolor na czerwony i także przestanie być klikalny. Na samym dole znajduje się przycisk do opuszczenia gry. Gracz może popełnić 5 błędów, z kolei 6 błąd zakończy grę niepowodzeniem. Wraz z popełnianiem kolejnych błędów, widoczna w grze szubienica będzie powiększała się aż do momentu gdy zawiśnie na niej wisielec. Po zakończeniu gry wyświetla się okno z możliwością podjęcia wyboru czy gracz kontynuuje rozgrywkę, czy woli opuścić grę. <br/>
@@ -16,13 +16,13 @@ Dostęp do internetu<br/>
 
 Edycja:<br/>
 Do poprawnej kompilacji kodu wymagany jest: <br/>
-kompilator obsługujący C++14<br/>
+kompilator obsługujący C++14<br/><br/>
 komponenty<br/>
 MFC for latest v142 build tools(x86 & x64)<br/>
 MFC for latest v142 build tools with Spectre Mitigations(x86 & x64)<br/>
 biblioteki zewnętrzne<br/>
 libcurl w wersji 7.74.0<br/>
-JSON for Modern C++ w wersji 3.7.3<br/>
+JSON for Modern C++ w wersji 3.7.3<br/><br/>
 Aspekty Techniczne:<br/>
 Program składa się z 2 plików typu Header, 2 plików typu Cpp oraz 7 plików typu Png. <br/>
 Plik Slowa.h wczytuje wszystkie potrzebne do działania programu biblioteki oraz zawiera w sobię klasę Slowa.<br/>
